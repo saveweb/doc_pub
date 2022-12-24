@@ -1,6 +1,9 @@
-# STWP 项目
+# STWP 项目一览
 
-> 非公开的存档项目不在此列出。
+> 非公开的存档项目不在此列出。  
+> “无限期”的项目是长期项目。
+
+## STWP 主持项目
 
 | 开始&结束时间 | 项目名 | 状态 | 简介 |
 | --- | --- | --- | --- |
@@ -11,5 +14,12 @@
 | 2022-02-17~2022-02-19 | Ingress Mission Day China 网站 | 已完成 | [saveweb/17173mdc](https://github.com/saveweb/17173mdc)，Archivist: [403姐姐](@jshensh) |
 | 2022-06-12~ | XXXXXX | 停止 | 应站方要求停止存档 |
 | 2022-07-18~无限期 | 中文独立博客RSS存档(网页快照) | 进行中 | 将 [saveweb/rss-list](https://github.com/saveweb/rss-list) 以及 [十年之约](https://www.foreverblog.cn/) 的博客的新文章推送到 IA 存档。见：[详情](https://blog.save-web.org/blog/2022/07/19/震惊，stwp-竟然给-1700-多个中文独立博客做了每日备份/) |
+| 2022-08-08~无限期 | 「吾爱破解论坛」的「爱盘」预存档 | 进行中 | 见：[详情](https://blog.save-web.org/blog/2022/08/08/「吾爱破解论坛」的「爱盘」预存档计划/) |
 | 2022-10-21~无限期 | 科学网博客平台存档计划 | 进行中 | 将[科学网的博客平台](https://blog.sciencenet.cn/)（由「中国科学报社」运营）的全部博文推送到 IA 存档。见：[详情](https://blog.save-web.org/blog/2022/10/21/%e7%a7%91%e5%ad%a6%e7%bd%91%e5%8d%9a%e5%ae%a2%e5%b9%b3%e5%8f%b0%e5%ad%98%e6%a1%a3%e8%ae%a1%e5%88%92/) |
 | 2022-10-27~无限期 | 阿里[语雀](https://www.yuque.com)公开知识库备份 | 第二阶段计划中 | [「语雀」公开知识库紧急存档行动 – Save The Web Project](https://blog.save-web.org/blog/2022/11/05/%e3%80%8c%e8%af%ad%e9%9b%80%e3%80%8d%e5%85%ac%e5%bc%80%e7%9f%a5%e8%af%86%e5%ba%93%e7%b4%a7%e6%80%a5%e5%ad%98%e6%a1%a3%e8%a1%8c%e5%8a%a8/) |
+
+## 合作项目
+
+| 开始&结束时间 | 项目名 | 状态 | 简介 |
+| --- | --- | --- | --- |
+| 2022-08-17~无限期 | 《二十一世纪》期刊存档 | 进行中 | 由[@Icey-u](https://github.com/Icey-u)发起。见：[saveweb/21c-archive](https://github.com/saveweb/21c-archive) |
