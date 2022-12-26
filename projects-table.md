@@ -17,6 +17,7 @@
 | 2022-08-08~无限期 | 「吾爱破解论坛」的「爱盘」预存档 | 进行中 | 见：[详情](https://blog.save-web.org/blog/2022/08/08/「吾爱破解论坛」的「爱盘」预存档计划/) |
 | 2022-10-21~无限期 | 科学网博客平台存档计划 | 进行中 | 将[科学网的博客平台](https://blog.sciencenet.cn/)（由「中国科学报社」运营）的全部博文推送到 IA 存档。见：[详情](https://blog.save-web.org/blog/2022/10/21/%e7%a7%91%e5%ad%a6%e7%bd%91%e5%8d%9a%e5%ae%a2%e5%b9%b3%e5%8f%b0%e5%ad%98%e6%a1%a3%e8%ae%a1%e5%88%92/) |
 | 2022-10-27~无限期 | 阿里[语雀](https://www.yuque.com)公开知识库备份 | 第二阶段计划中 | [「语雀」公开知识库紧急存档行动 – Save The Web Project](https://blog.save-web.org/blog/2022/11/05/%e3%80%8c%e8%af%ad%e9%9b%80%e3%80%8d%e5%85%ac%e5%bc%80%e7%9f%a5%e8%af%86%e5%ba%93%e7%b4%a7%e6%80%a5%e5%ad%98%e6%a1%a3%e8%a1%8c%e5%8a%a8/) |
+| 2022-12-25~ | MediaWiki 站点存档 | 试运行/调试中 | 预计主要存档中文 MediaWiki 站，存档工具为 wikiteam3 (bug多，需要魔改) | 
 
 ## 合作项目
 
