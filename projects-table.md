@@ -20,6 +20,8 @@
 | 2023-01-04~ | 软盘收集&数字化存档（实体项目） | 试运行中(第一阶段) | 相关信息可暂时参考我们的频道消息: [t.me/saveweb/47](https://t.me/saveweb/47) |
 | 2023-0X-XX(?) | 中文播客存档 | 排期中/计划中 |  |
 | 2023-0X-XX(?) | 「[天涯论坛](http://bbs.tianya.cn/)」存档 | 缓慢开发中 |  |
+| 2023-0X-XX(?) | DokuWiki 站点存档 | 开发中/调试中 | 存档 DokuWiki 站，存档工具： [saveweb/dokuwiki-scraper](https://github.com/saveweb/dokuwiki-scraper) |
+
 
 ## 合作项目
 
