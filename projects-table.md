@@ -14,13 +14,13 @@
 | 2022-06-12~ | XXXXXX | 停止 | 应站方要求停止存档 |
 | 2022-07-18~ | 中文独立博客RSS存档(网页快照) | 进行中 | 将 [saveweb/rss-list](https://github.com/saveweb/rss-list) 以及 [十年之约](https://www.foreverblog.cn/) 的博客的新文章推送到 IA 存档。见：[详情](https://blog.save-web.org/blog/2022/07/19/震惊，stwp-竟然给-1700-多个中文独立博客做了每日备份/) |
 | 2022-08-08~ | 「吾爱破解论坛」的「爱盘」预存档 | 进行中 | 见：[详情](https://blog.save-web.org/blog/2022/08/08/「吾爱破解论坛」的「爱盘」预存档计划/) |
-| 2022-10-21~ | 科学网博客平台存档计划 | 已追赶到 2021-8-16 | 将科学网（由「中国科学报社」运营）的博客平台的全部博文推送到 IA 存档。见：[详情](https://blog.save-web.org/blog/2022/10/21/%e7%a7%91%e5%ad%a6%e7%bd%91%e5%8d%9a%e5%ae%a2%e5%b9%b3%e5%8f%b0%e5%ad%98%e6%a1%a3%e8%ae%a1%e5%88%92/)、[仓库](https://github.com/saveweb/sci-blog-archive) |
+| 2022-10-21~ | 科学网博客平台存档计划 | 已追赶到 2023-01-07 | 将科学网（由「中国科学报社」运营）的博客平台的全部博文推送到 IA 存档。见：[详情](https://blog.save-web.org/blog/2022/10/21/%e7%a7%91%e5%ad%a6%e7%bd%91%e5%8d%9a%e5%ae%a2%e5%b9%b3%e5%8f%b0%e5%ad%98%e6%a1%a3%e8%ae%a1%e5%88%92/)、[仓库](https://github.com/saveweb/sci-blog-archive) |
 | 2022-10-27~ | 阿里[语雀](https://www.yuque.com)公开知识库备份 | 第二阶段计划中 | [「语雀」公开知识库紧急存档行动 – Save The Web Project](https://blog.save-web.org/blog/2022/11/05/%e3%80%8c%e8%af%ad%e9%9b%80%e3%80%8d%e5%85%ac%e5%bc%80%e7%9f%a5%e8%af%86%e5%ba%93%e7%b4%a7%e6%80%a5%e5%ad%98%e6%a1%a3%e8%a1%8c%e5%8a%a8/) |
-| 2022-12-25~ | MediaWiki 站点存档 | 试运行 | 预计主要存档中文 MediaWiki 站，存档工具为 wikiteam3 (bug多，需要魔改) |
+| 2022-12-25~ | MediaWiki 站点存档 | 试运行 | 预计主要存档中文 MediaWiki 站，代码 push 到上游。程序：[mediawiki-client-tools/mediawiki-scraper](https://github.com/mediawiki-client-tools/mediawiki-scraper/)|
 | 2023-01-04~ | 软盘收集&数字化存档（实体项目） | 试运行中(第一阶段) | 相关信息可暂时参考我们的频道消息: [t.me/saveweb/47](https://t.me/saveweb/47) |
-| 2023-0X-XX(?) | 中文播客存档 | 排期中/计划中 |  |
+| 2023-04-00~ | 中文播客存档 | 开发中/试运行 | 程序：[saveweb/preserve-those-podcasts](https://github.com/saveweb/preserve-those-podcasts)。目录索引：[saveweb/podcasts-index](https://github.com/saveweb/podcasts-index) |
 | 2023-0X-XX(?) | 「[天涯论坛](http://bbs.tianya.cn/)」存档 | 缓慢开发中 |  |
-| 2023-0X-XX(?) | DokuWiki 站点存档 | 开发中/调试中 | 存档 DokuWiki 站，存档工具： [saveweb/dokuwiki-scraper](https://github.com/saveweb/dokuwiki-scraper) |
+| 2023-02-14~ | DokuWiki 站点存档 | 进行中 | 存档 DokuWiki 站。程序：[saveweb/dokuwiki-scraper](https://github.com/saveweb/dokuwiki-scraper)。存档索引： [Kanban](https://github.com/orgs/saveweb/projects/4), [IA subject](https://archive.org/search?query=subject%3A"dokuWikiDumper") |
 
 
 ## 合作项目
